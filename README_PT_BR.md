@@ -1,8 +1,12 @@
-# Android Developer Roadmap 2019
+# Android Developer Roadmap 2020
 
 ![GitHub contributors](https://img.shields.io/github/contributors/anacoimbrag/android-developer-roadmap.svg?style=flat-square)
 
 **For the english version, [click here](./README.md)**
+
+**Para la versión en español, [clic auquí](./README_ES.md)**
+
+**Voor de nederlandse versie, [klik hier](./README_NL.md)**
 
 Baseado no [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), que ajuda pessoas desenvolvedoras web com um direcionamento sobre o que aprender nessa área extensa, nós desenvolvemos o Android Developer Roadmap com o mesmo objetivo.
 
@@ -22,6 +26,14 @@ Lembre que este é um conteúdo colaborativo, então, se algo estiver faltando o
 
 ![Android Roadmap](./images/android_roadmap.png)
 
+## Conteúdos para estudo do roadmap
+
+Agora você pode acessar [este arquivo](https://github.com/mobile-roadmap/android-developer-roadmap/blob/master/ROADMAP_STUDY_CONTENT.md) para ver todas as sugestões de conteúdo da comunidade, relacionadas aos tópicos do nosso roadmap!
+
+## Android app
+
+Para ajudar você a acompanhar seu progresso, [@Fren1100](https://github.com/Fren1100) criou um app Android com todos os assuntos. Você pode baixar o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.fren.androiddeveloperroadmap).
+
 ## Agradecimentos
 
 Queremos agradecer a comunidade de desenvolvimento Android de todo o mundo que nos ajudou com diversas ideias, especialmente [Android Dev BR](https://github.com/androiddevbr). Sem vocês esse projeto não estaria tão robusto e completo quanto está.
@@ -34,8 +46,8 @@ Você pode encontrar [aqui](./docs/contributing_pt_br.md) como contribuir para o
 
 ## Authors
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (me siga no twitter)
-[2.1]: http://i.imgur.com/9I6NRUm.png (me siga no github)
+[1.1]: http://i.imgur.com/wWzX9uB.png "me siga no twitter"
+[2.1]: http://i.imgur.com/9I6NRUm.png "me siga no github"
 
 [1]: https://twitter.com/anacoimbrag
 [2]: https://github.com/anacoimbrag
